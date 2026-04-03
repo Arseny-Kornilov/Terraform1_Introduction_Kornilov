@@ -3,3 +3,7 @@
 <img width="492" height="65" alt="image" src="https://github.com/user-attachments/assets/068e094f-c781-4b68-af30-4b44c4d06744" />
 
 ## Задание 1
+- Изучите файл .gitignore. В каком terraform-файле, согласно этому .gitignore, допустимо сохранить личную, секретную информацию?(логины,пароли,ключи,токены итд)
+    Ответ: personal.auto.tfvars
+- Выполните код проекта. Найдите в state-файле секретное содержимое созданного ресурса random_password, пришлите в качестве ответа конкретный ключ и его значение.
+    Ответ: "result": "DpPKL23nxFrWPhSn"
